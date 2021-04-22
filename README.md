@@ -1,5 +1,5 @@
 # AzureTextMessageFunctionApp
-Simple timertriggered function app for sending text messages using Twilio's API
+A Simple timertriggered function app for sending text messages using Twilio's API
 
 ## To run:
 
