@@ -3,6 +3,7 @@ A Simple timertriggered function app for sending text messages using Twilio's AP
 
 ## To run:
 
+- Create a Twilio account and get your credentials
 - Install NPM
 - Install Azure functions core tools 
 - Install visual studio code install visual studio functions extension 
